@@ -1,0 +1,73 @@
+{
+  "name": "Felipe Vieira",
+  "photo": "/assets/img/my-photo.jpeg",
+  "job": "Junior Web Developer",
+  "location": "Belém - PA",
+  "phone": "(91) 98263-7220",
+  "email": "felipevieiradev1k@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Nodejs",
+        "logo": "/assets/img/icons/tools/nodejs.svg"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "/assets/img/icons/tools/jsicon.svg"
+      },
+      {
+        "name": "Git",
+        "logo": "/assets/img/icons/tools/git.svg"
+      },
+      {
+        "name": "PHP",
+        "logo": "/assets/img/icons/tools/php.svg"
+      },
+      {
+        "name": "React",
+        "logo": "/assets/img/icons/tools/react.svg"
+      },
+      {
+        "name": "TypeScript",
+        "logo": "/assets/img/icons/tools/type.svg"
+      },
+      {
+        "name": "CSS",
+        "logo": "/assets/img/icons/tools/css.svg"
+      }
+    ],
+    "softSkills": [
+      "Facilidade de comunicação",
+      "Organização",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Facilidade em Aprender",
+      "Facilidade com tarefas práticas"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)",
+    "Espanhol (iniciante)",
+    "Francês (iniciante)"
+  ],
+  "portfolio": [
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/felipevDev/Desenvolvimento-Web---JavaScript",
+      "github": true
+    },
+    {
+      "name": "CRUD - Tabela JavaScript",
+      "url": "https://github.com/felipevDev/Projeto-CRUD-TABELA",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Web Developer / Kolares TI",
+      "period": "Maio 2024 - Até o momento",
+      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+    }
+  ]
+}
