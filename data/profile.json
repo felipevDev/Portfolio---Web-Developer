@@ -1,6 +1,6 @@
 {
   "name": "Felipe Vieira",
-  "photo": "/assets/img/my-photo.jpeg",
+  "photo": "assets/img/my-photo.jpeg",
   "job": "Junior Web Developer",
   "location": "Belém - PA",
   "phone": "(91) 98263-7220",
@@ -9,31 +9,31 @@
     "hardSkills": [
       {
         "name": "Nodejs",
-        "logo": "/assets/img/icons/tools/nodejs.svg"
+        "logo": "assets/img/icons/tools/nodejs.svg"
       },
       {
         "name": "JavaScript",
-        "logo": "/assets/img/icons/tools/jsicon.svg"
+        "logo": "assets/img/icons/tools/jsicon.svg"
       },
       {
         "name": "Git",
-        "logo": "/assets/img/icons/tools/git.svg"
+        "logo": "assets/img/icons/tools/git.svg"
       },
       {
         "name": "PHP",
-        "logo": "/assets/img/icons/tools/php.svg"
+        "logo": "assets/img/icons/tools/php.svg"
       },
       {
         "name": "React",
-        "logo": "/assets/img/icons/tools/react.svg"
+        "logo": "assets/img/icons/tools/react.svg"
       },
       {
         "name": "TypeScript",
-        "logo": "/assets/img/icons/tools/type.svg"
+        "logo": "assets/img/icons/tools/type.svg"
       },
       {
         "name": "CSS",
-        "logo": "/assets/img/icons/tools/css.svg"
+        "logo": "assets/img/icons/tools/css.svg"
       }
     ],
     "softSkills": [
